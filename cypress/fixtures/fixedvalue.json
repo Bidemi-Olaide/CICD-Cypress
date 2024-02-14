@@ -1,0 +1,9 @@
+{
+    "emptyuser": "Required",
+    "emptydetails": "RequiredRequired",
+  "message": "Invalid credentials",
+  "expectation": ".oxd-text--span.oxd-input-field-error-message.oxd-input-group__message[data-v-7b563373]",
+  "resetSuccessful":"Reset Password link sent successfully"
+
+  
+}
